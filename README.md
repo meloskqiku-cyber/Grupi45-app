@@ -1,3 +1,6 @@
 # Grupi45-app
 
-This is a project for Group 45 - tesing read me file
+This is a project for Group 45 - testing read me file
+
+
+Melos is testing on read me file
