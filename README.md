@@ -1,16 +1,15 @@
 # Grupi45-app
 
-This C++ program allows the user to input a number of grades and then displays them on the screen.
-It uses a vector to store the grades and a separate function to handle user input.
+Ky program në C++ i lejon përdoruesit të fusë disa nota dhe pastaj i shfaq ato në ekran.
+Përdor një vector për të ruajtur notat dhe një funksion të veçantë për marrjen e tyre dhe per gjetjen e mesatares se notave.
 
-The program demonstrates:
-Using vector from the C++ Standard Library
-Passing vectors by reference to functions
-Basic input/output with cin and cout
-Looping through a vector using a range-based for loop
+Çfarë tregon programi?
+Kalimin e vector-ëve me referencë te funksionet
+Input dhe output bazik me cin dhe cout
+Kalimin nëpër një vector me range-based for loop
+Gjetjen e Mesatares se Notave.
 
-How It Works
-The program asks the user how many grades they want to enter.
-The function lexoNotat reads the grades from the user and stores them in a vector.
-After all grades are entered, the program prints them to the console.
-
+Si funksionon?
+Programi pyet sa nota dëshiron të fusë përdoruesi
+Funksioni lexoNotat i merr notat dhe i ruan në një vector
+Pasi të jenë futur të gjitha notat, gjendet mesatarja e tyre dhe programi i shfaq ato në ekran 
